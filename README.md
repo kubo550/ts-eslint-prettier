@@ -8,6 +8,12 @@ Using npm, install the following packages:
 npm install --save-dev @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-config-prettier eslint-plugin-prettier prettier
 ```
 
+Using yarn: 
+
+```bash
+yarn add -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-config-prettier eslint-plugin-prettier prettier
+```
+
 create a .eslintrc.js file in your project root directory and add the following to it:
 
 > .eslintrc.js
